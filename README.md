@@ -2,6 +2,8 @@
 
 I'm a solutions architect at [Red Hat](https://www.redhat.com) and help customers and partners in the Belgium and Luxembourg regions.
 
+![](https://blog.wains.be/images/redhatibm.png)
+
 I [blog](https://blog.wains.be) about Open Source since 2005.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/sebastien-wains/).
