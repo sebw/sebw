@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo.
+
+I'm a solutions architect at [Red Hat](https://www.redhat.com) and help customers and partners in the Belgium and Luxembourg regions.
+
+I [blog](https://blog.wains.be) about Open Source since 2005.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/sebastien-wains/).
 
 <!--
 **sebw/sebw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
