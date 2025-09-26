@@ -1,6 +1,6 @@
-### Yo 🤘
+### Hello World 🤘
 
-I'm a solutions architect at [Red Hat](https://www.redhat.com) and help customers and partners in the Belgium and Luxembourg regions.
+I'm an automation strategist at [Red Hat](https://www.redhat.com) and help and advise customers and partners in the Belgium and Luxembourg regions.
 
 ![](https://blog.wains.be/images/redhatibm.png)
 
